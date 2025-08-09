@@ -1,4 +1,3 @@
-# Medicare-Spending-EDA-
 EDA on Medicare Spending Per Beneficiary (MSPB)
 
 # Exploratory Data Analysis of U.S. hospital efficiency using Medicare Spending Per Beneficiary metrics.
