@@ -62,3 +62,7 @@ It leverages **data analytics, machine learning, and clustering techniques** to 
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+## **Author**
+Author: Srajit Bhardwaj
+Email: srajitbhardwaj@gmail.com
+Phone: 7217489840
