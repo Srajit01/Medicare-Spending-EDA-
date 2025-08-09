@@ -14,13 +14,13 @@ Quantify high- and low-cost outliers
 
 Showcase data cleaning, aggregation, and visualization best practices
 
-📁 Repository Structure
 
-EDA-MSPB/
-├── SQL-code.sql            # All data-cleaning & EDA queries (no comments)
-├── MSPB-Dataset.csv        # Raw CMS MSPB data (2020) — *download separately*
-├── Power-BI-Report.pdf     # Final interactive dashboard snapshots (exported)
-└── README.md               # Project overview, setup, queries, visuals
+| 📌 Section      | Details |
+|-----------------|---------|
+| **Project Name** | Medicare Spending Per Beneficiary (MSPB) EDA |
+| **Dataset**      | [CMS Medicare Data](https://data.cms.gov) |
+| **Tools Used**   | Python, Pandas, Matplotlib, Seaborn |
+
 
 🛠 Data Source
 
