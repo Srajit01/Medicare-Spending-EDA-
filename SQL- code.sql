@@ -3,7 +3,6 @@ To view the dataset we will run following query
 select *
 from project.dataset
 
----------------- Look for blank values----------------------
 select *
 from project.dataset
 where hospital is null
